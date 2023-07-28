@@ -1,6 +1,6 @@
 # Registration form
 
-Пошаговая форма регистрации на HTML CSCC и JavaScript
+Пошаговая форма регистрации на HTML SCSS и JavaScript
 
 Смотреть демо : [Ссылка на Registration form](https://ndartemka1.github.io/registration-form/)
 
