@@ -7,8 +7,6 @@
 ![prev](/img/prev.png)
 
 ## Используемые технологии
-  + Vue3
-  + Vuex4
-  + Vue Router
-  + LocalStorage
-  + CSS
+  + HTML
+  + Препроцессор CSCC
+  + JavaScript
